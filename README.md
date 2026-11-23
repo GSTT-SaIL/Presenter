@@ -6,7 +6,7 @@ A single-file browser recorder: capture your screen with your webcam in a circle
 bottom-left corner, plus your voice. No server, no upload — the composite is built on a
 `<canvas>` in your tab and the finished file downloads straight to your machine.
 
-Styled to match [WebAV](https://github.com/Gareth-Power/WebAV) — same light Apple-ish
+Styled to match [WebAV](https://github.com/GSTT-SaIL/WebAV) — same light Apple-ish
 palette (`#2563eb` accent, `#1d1d1f`/`#86868b` text, `#f5f5f7` panels), same 22px panel
 radius, ghost buttons, monospace pills, and the SaIL logo pinned top-left.
 
